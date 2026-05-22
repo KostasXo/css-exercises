@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.normal
+ {
+    background-color: rgb(238, 156, 156);
+    font-family: Verdana,"DejaVu Sans", sans-serif;
+}
+
+#second {
+    color: rgb(4, 17, 201);
+    font-size: 36px;
+}
+
+.cool {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: rgb(164, 243, 157);
+    font-size: 24px;
+}
